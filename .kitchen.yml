@@ -13,7 +13,7 @@ transport:
   password: H0rnyBunny
 
 verifier:
-  name: pester
+  name: inspec
 
 platforms:
   - name: windows-2012r2
